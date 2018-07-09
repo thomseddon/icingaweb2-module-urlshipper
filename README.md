@@ -3,7 +3,7 @@
 
 This module extends Icinga Director to provide an Import Source that will scrape json content from a given url.
 
-Inspired by (icingaweb2-module-fileshipper)[https://github.com/Icinga/icingaweb2-module-fileshipper].
+Inspired by [icingaweb2-module-fileshipper](https://github.com/Icinga/icingaweb2-module-fileshipper).
 
 ## Installation
 
