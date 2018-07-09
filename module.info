@@ -1,0 +1,6 @@
+Name: Urlshipper
+Version: 0.0.1
+Depends: director
+Description: Urlshipper for Icinga Director
+ The urlshipper module provides an Import Source that will scrape json content
+ from a given url
